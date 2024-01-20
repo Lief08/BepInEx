@@ -1,0 +1,9 @@
+{
+    "name": "Simple_Sailing",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "A straight forward wind mod that sets the wind direction behind the player when manning any boat.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}

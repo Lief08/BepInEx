@@ -1,0 +1,9 @@
+{
+    "name": "CraftBuildSmeltCookFuelPullFromContainers",
+    "version_number": "3.5.1",
+    "website_url": "https://www.nexusmods.com/valheim/mods/40",
+    "description": "v3.5.1 by aedenthorn from NexusMods.  A combination of more slots and equipment and quick slots that uses the vanilla inventory.",
+    "author": "aedenthorn",
+    "dependencies": [
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "CartographySkill",
+  "description": "Adds the cartography skill, allowing you to increase your map explore radius as you uncover more of your map.",
+  "version_number": "3.0.0",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ],
+  "website_url": "https://www.nexusmods.com/valheim/mods/394"
+}
